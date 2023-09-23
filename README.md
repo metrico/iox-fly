@@ -10,6 +10,8 @@ Community Builds and Containers for InfluxDB 3.0 IOx _(eye-ox)_ for Fly.io
 
 <br>
 
+#### IOx Demo
+
 <a href="https://flyctl.sh/shell?repo=metrico/iox-fly" target="_blank">
   <img src="https://user-images.githubusercontent.com/1423657/236479471-a1cb0484-dfd3-4dc2-8d62-121debd7faa3.png" width=300>
 </a>
